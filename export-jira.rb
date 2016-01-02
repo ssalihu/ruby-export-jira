@@ -13,7 +13,6 @@ require 'pp'
 require 'jira'
 require 'csv'
 require 'highline/import'
-require 'ruby-progressbar'
 
 # User parameteres. Can be changed
 # update your JIRA link here
